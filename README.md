@@ -6,7 +6,7 @@
  
  🌱 Estudando Node.js
  
- ☕ Apaixonada por café e programação.
+ ☕ Apaixonada por café .
  
 <div align="center">
   <a href="https://github.com/Thaynara108310">
