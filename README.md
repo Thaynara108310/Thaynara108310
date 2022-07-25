@@ -4,7 +4,7 @@
 
  🔭 Concluindo atualmente o curso de web dev fullstack da Resilia.
  
- 🌱 Estudando Node.js
+ 🌱 Estudando React
  
  ☕ Apaixonada por café .
  
