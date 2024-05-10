@@ -1,12 +1,5 @@
 ### Olá! Eu sou a Thaynara👋
 
-
-
- 🔭 Concluindo atualmente o curso de web dev fullstack da Resilia.
- 
- 🌱 Estudando React
- 
- ☕ Apaixonada por café .
  
 <div align="center">
   <a href="https://github.com/Thaynara108310">
